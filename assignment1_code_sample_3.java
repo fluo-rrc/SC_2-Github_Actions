@@ -71,5 +71,4 @@ public class VulnerableApp {
         sendEmail("admin@example.com", "User Input", userInput);
     }
 }
-
-#test
+// test
